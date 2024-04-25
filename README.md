@@ -1,2 +1,13 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# BD NoSQL - Projeto Pix Bancário
+
+## Alunos
+
+- ### Caio Marcondes
+- ### Jean Augusto
+- ### Kevin Florindo
+- ### Vinicius Marcondes
+
+## Ferramentas utilizadas
+
+- ### MongoDB
+- ### Dart
